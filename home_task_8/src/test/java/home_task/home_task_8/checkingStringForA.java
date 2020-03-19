@@ -8,10 +8,10 @@ import org.junit.jupiter.api.Test;
 class checkingStringForA {
 /*	Test Cases
 *	1.First one A:“ABCD” => “BCD” 
-    2.First two A's:“AACD” => “CD”  
-    3.Second Alphabet A A:“BACD” => “BCD” 
-    4.Last two A'sA:“BBAA” => “BBAA”        
-    5.First and last two A's:“AABAA” => “BAA” 
+        2.First two A's:“AACD” => “CD”  
+        3.Second Alphabet A A:“BACD” => “BCD” 
+        4.Last two A'sA:“BBAA” => “BBAA”        
+        5.First and last two A's:“AABAA” => “BAA” 
 * 
 */
 RemoveIfFirstAFromString object;
