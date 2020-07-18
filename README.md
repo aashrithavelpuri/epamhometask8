@@ -1,2 +1,2 @@
 # epamhometask8
-JDD and JUnit hometask
+TDD and JUnit hometask
